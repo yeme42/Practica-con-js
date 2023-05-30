@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    background: rgb(6, 6, 99);
+    height: auto;
+ 
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background: rgb(6, 6, 148);
+    
+}
+span{
+    color: #f7f0f0;
+}
+.ml{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img-t{
+    height: auto;
+    width: 50px;
+    margin: 20px;   
+}
